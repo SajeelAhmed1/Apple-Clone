@@ -1,0 +1,64 @@
+@font-face{
+    font-family: 'DotGothic16', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=DotGothic16&dis');
+}
+p.o{
+   background-color:rgb(59, 61, 52);
+   color: rgb(164, 164, 185);
+   font-size: 30px;
+}
+
+#navcont{
+    margin-top: 15px;
+    padding-top: 10px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    
+}
+.blue{
+    color: rgb(50, 50, 207);
+}
+#covid{
+    background-color: rgb(37, 107, 211);
+    width: 102%;
+    height: 33px;
+    text-align: center;
+    margin-top: -1px;
+    margin-left:-10px;
+    padding-top: 10px;
+    font-size: 13px;
+    color:rgb(255, 255, 255);
+}
+#shop{
+    background-color: rgba(234, 238, 245, 0.493);
+    width: 102%;
+    height: 40px;
+    text-align: center;
+    margin-top: -1px;
+    margin-left:-10px;
+    padding-top: 3px;
+    font-size: 13px;
+    color:rgb(0, 0, 0);
+}
+#we{
+    
+    margin-top:-15px;
+    margin-left:-10px;
+    text-align: center;
+    width: 102%;
+    height: 45px;
+    background-color:rgb(50, 49, 51);
+    color:rgb(185, 184, 185);
+    font-size: 13px;
+    text-decoration: none;
+    /* position: fixed; */
+}
+li{
+    padding-left: 45px;
+    padding-right: 45px;
+    text-decoration: none;
+    display: inline;
+}
